@@ -1,5 +1,3 @@
-# my-first-repo
-
 # All about me!
 
 ## So I love all things creative and artistic.
